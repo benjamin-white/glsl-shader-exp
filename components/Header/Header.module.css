@@ -1,0 +1,11 @@
+.header {
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
+.nav {
+  list-style: none;
+  margin: 0;
+  padding: 1.5rem 0 0 3rem;
+}
